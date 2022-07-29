@@ -43,7 +43,7 @@ y tiene las siguientes funcionalidades:
 
 1. React JS
 2. React Router DOM
-3. Formik [Ver Detalles](https://formik.org/)
+3. Formik                       [Ver Detalles](https://formik.org/)
 3. Yup ( scheme validation )
 2. Bootstrap v5.x.x
 3. Google Books API
