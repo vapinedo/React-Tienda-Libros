@@ -6,7 +6,7 @@ y tiene las siguientes funcionalidades:
 
 ## Funcionalidades a construir
 
-**1. Catalogo de libros**
+1. Catalogo de libros
     - Imagen
     - Titulo del libro
     - Link de detalle 
@@ -14,7 +14,7 @@ y tiene las siguientes funcionalidades:
     - año de lanzamiento
     - Número de paginas
 
-**2. Página de detalle del libro**
+2. Página de detalle del libro
     - Imagen
     - Titulo del libro
     - Link de detalle 
@@ -23,21 +23,21 @@ y tiene las siguientes funcionalidades:
     - Número de paginas
     - Descripción
 
-**3. Carrito de compras**
-**4. página de confirmación de productos y pago**
-**5. Login / Logout**
+3. Carrito de compras
+4. página de confirmación de productos y pago
+5. Login / Logout
     - Boton Logout
     - Pagina de Login
     - Página de Registro
-**6. Scroll infinito**
-**7. Buscador de libros:**
+6. Scroll infinito
+7. Buscador de libros:
     - Titulo
     - Autor
-**8. Filtro de busqueda combinada:**
+8. Filtro de busqueda combinada:
     - Autor
     - Titulo
     - Año de lanzamiento
-**9. Barra de navegación**
+9. Barra de navegación 
 
 ## Tecnologías a usar
 
