@@ -41,12 +41,12 @@ y tiene las siguientes funcionalidades:
 
 ## Tecnologías a usar
 
-1. React JS
-2. React Router DOM
-3. Formik [Ver Detalles](https://formik.org/ "Sitio Web Oficial")
-3. Yup ( scheme validation )
-2. Bootstrap v5.x.x
-3. Google Books API
+1. React JS [Ver Detalles](https://reactjs.org/)
+2. React Router DOM [Ver Detalles](https://www.npmjs.com/package/react-router-dom)
+3. Formik [Ver Detalles](https://formik.org/)
+4. Yup ( scheme validation ) [Ver Detalles](https://www.npmjs.com/package/yup)
+5. Bootstrap v5.x.x [Ver Detalles](https://getbootstrap.com/)
+6. Google Books API [Ver Detalles](https://developers.google.com/books/docs/overview)
 
 # Documentación
 
@@ -61,6 +61,9 @@ Información de interés para el usuario para la lógica de la aplicación, que 
 Al gestionar o manipular el estado, las buenas prácticas recomiendan hacerlo teniendo en cuenta algunos conceptos:
 
 1. Debe ser predecible
+    - Debe ser facil de saber entender el flujo de la información ( estado )
 2. La información debe ser consistente
-3. 
+    - Siempre que ocupemos información, debemos obtener su versión más reciente
+3. Global
+    - Debe ser posible acceder a la información desde cualquier parte de la aplicación
 
