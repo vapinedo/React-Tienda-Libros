@@ -1,4 +1,5 @@
-import { Navbar, nombre } from "./components/Navbar";
+import { BookList } from "./components/BookList";
+import { Navbar } from "./components/Navbar";
 
 export const App = () => {
   return (
@@ -6,7 +7,7 @@ export const App = () => {
       <Navbar />
 
       <div className="container py-5">
-        <h1>Hello World</h1>
+        <BookList />
       </div>
     </>
   );
